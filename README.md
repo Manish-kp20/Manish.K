@@ -1,40 +1,42 @@
-Hi, I'm Manish K 👋
+# Hi, I'm Manish.K 👋
 
-🎓 Student at St. Joseph's College of Engineering
+🎓 Student  
+💻 Interests: C programming, Python, AI, Cybersecurity  
+📂 Projects: SWOC Analysis, Lab Assignments, Coding Practice  
+🌐 Connect with me: [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Manish-kp20)
 
-💻 Interests: C programming, Python, AI, Cybersecurity
+---
 
-📁 Projects: SWOC Analysis, Lab Assignments, Coding Practice
+## 🚀 Skills
+- Programming: C, Python
+- Tools: Git, GitHub
+- Interests: AI, Cybersecurity, Game Development
 
-🌐 Connect with me: LinkedIn | GitHub
+---
 
-👨‍💻 About Me
+## 📂 Projects
+- SWOC Analysis (Professional English Lab)
+- Array Calibration in C
+- Python Installation Troubleshooting
+- Aptitude & Reasoning Practice Programs
 
-I am an engineering student passionate about software development, problem-solving, and exploring emerging technologies. I enjoy building foundational programming skills in C and Python while diving into the worlds of Artificial Intelligence and Cybersecurity.
+---
 
-🔭 Currently working on: Core programming lab assignments and problem-solving exercises
+## ⭐ Starred Repositories
+Here are some repositories I’ve starred that inspire me:
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)  
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
 
-🌱 Currently learning: Data Structures in C, Python Scripting, and Linux fundamentals
+---
 
-🤝 Looking to collaborate on: Beginner-friendly open-source projects and coding challenges
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish-kp20&show_icons=true&theme=radical)
 
-⚡ Fun fact: I enjoy troubleshooting technical setups and exploring how game engines work!
+---
 
-🚀 Skills
+## 📫 Contact
+- Email: your-email@gmail.com  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 
-Programming Languages: C, Python, HTML/CSS (Basics)
-
-Tools & Platforms: Git, GitHub, VS Code, Linux
-
-Core Areas: Problem Solving, Data Structures, Debugging
-
-Interests: Artificial Intelligence, Cybersecurity, Game Development
-
-📁 Projects
-
-SWOC Analysis (Professional English Lab) – Structured self-assessment and strategic presentation project
-
-Array Calibration in C – C program focused on array manipulation, logic building, and memory handling
-
-Python Installation Troubleshooting – Environment configuration, PATH setup, and dependency resolution
 
