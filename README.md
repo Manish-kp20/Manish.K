@@ -3,7 +3,7 @@
 🎓 Student  
 💻 Interests: C programming, Python, AI, Cybersecurity  
 📂 Projects: SWOC Analysis, Lab Assignments, Coding Practice  
-🌐 Connect with me: [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Manish-kp20)
+🌐 Connect with me: (https://www.linkedin.com/in/manish-k-550186415) | [GitHub](https://github.com/Manish-kp20)
 
 ---
 
@@ -37,6 +37,5 @@ Here are some repositories I’ve starred that inspire me:
 
 ## 📫 Contact
 - Email: manish.kp1820@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-
+- LinkedIn: (https://www.linkedin.com/in/manish-k-550186415)
 
