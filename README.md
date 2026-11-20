@@ -36,7 +36,7 @@ Here are some repositories I’ve starred that inspire me:
 ---
 
 ## 📫 Contact
-- Email: your-email@gmail.com  
+- Email: manish.kp 1820@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 
 
